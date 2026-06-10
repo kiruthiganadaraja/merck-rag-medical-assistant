@@ -71,3 +71,6 @@ Top-k retrieval with similarity scoring
 Prompt engineering for clinical accuracy and source citation
 Grounded generation to minimize hallucinations
 Qualitative evaluation against benchmark clinical questions
+
+Quick mentions:
+Python · LangChain · OpenAI / Hugging Face LLMs · Sentence-Transformers · FAISS / ChromaDB · PyPDF · Tiktoken · Google Colab (T4 GPU) · Jupyter Notebook
